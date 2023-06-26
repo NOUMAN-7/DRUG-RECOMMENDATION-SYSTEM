@@ -6,3 +6,5 @@ Code Languages/data base: Front end Node js and Backend Flask
 
 Developer Tools: vs vode,Google colab
 
+This is the Entire Manual and Code is Embedded Inside It
+
